@@ -26,6 +26,7 @@ class PackagesViewCell: UICollectionViewCell{
         }
     }
     
+    
     var packageTitle: UILabel = {
         let label = UILabel()
         label.font = UIFont.title
